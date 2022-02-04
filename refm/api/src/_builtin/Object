@@ -657,7 +657,7 @@ p true.object_id #=> 20
 p true.object_id #=> 20
 #@end
 
-@see [[m:Object#equal?]],[[c:Symbol]]
+@see [[m:BasicObject#__id__]],[[m:Object#equal?]],[[c:Symbol]]
 
 --- hash -> Integer
 
